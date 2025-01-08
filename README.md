@@ -1,2 +1,11 @@
 # practice-prophet
-気象庁が公開している日本の天気データを使用して，prophetを使った時系列解析の練習．
+[prophet](https://facebook.github.io/prophet/docs/installation.html) の練習
+
+# install
+~~~
+pip install prophet
+# for interactive plot
+pip install plotly # >= 4
+pip install notebook
+pip install ipywidgets
+~~~
