@@ -1,5 +1,0 @@
-name-template: 'main-change'
-template: |
-  ## What's Changed
-
-  $CHANGES
